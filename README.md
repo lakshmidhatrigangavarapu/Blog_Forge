@@ -1,7 +1,7 @@
 # Blog_Forge
 Blogging platform
 
-This is a Spring Boot starter project designed as a foundational template for building Java-based web applications. It incorporates core configurations, a logging system, basic security setup, and sample file upload capabilities. This boilerplate can be extended easily for enterprise-level applications.
+This is a Spring Boot starter project Monolithic application designed as a foundational template for building Java-based web applications. It incorporates core configurations, a logging system, basic security setup, and sample file upload capabilities. This boilerplate can be extended easily for enterprise-level applications.
 
 Key Features:
 ✅ Spring Boot Setup: With a pom.xml for easy dependency management.
